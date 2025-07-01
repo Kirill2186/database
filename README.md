@@ -1,10 +1,12 @@
 # Работа с базами данных
 
-<div>
-<li> <a href="https://docs.google.com/spreadsheets/d/1MpFvVPqwQc5WQI3Z4OeZ_WxGeXS5Nxk_I9JDhRV__Zc/edit?usp=drive_link">SELECT-запросы в MySQL</a> </li>
+## Тестирование баз данных для веб-приложения интернет-магазина
 
-<li> <a href="https://docs.google.com/spreadsheets/d/1pvRtnI2k1HSasQeVxr_xqWD0I6K3g49y7pFDU2CtO7Y/edit?usp=drive_link">JOIN-запросы в MySQL</a> </li>
+- [SQL-запросы для проверки данных о товарах (MySQL)](https://docs.google.com/spreadsheets/d/1MpFvVPqwQc5WQI3Z4OeZ_WxGeXS5Nxk_I9JDhRV__Zc/edit?gid=0#gid=0)  
+  _Провёл разработку и выполнение SQL-запросов для анализа данных по товарам, производителям и категориям веб-приложения интернет-магазина_
 
+- [SQL-запросы для проверки связей между пользователями и заказами (MySQL)](https://docs.google.com/spreadsheets/d/1pvRtnI2k1HSasQeVxr_xqWD0I6K3g49y7pFDU2CtO7Y/edit?gid=0#gid=0)  
+  _Провёл тестирование целостности и корректности связей между пользователями, заказами и позициями заказов с помощью JOIN- и вложенных запросов_
 
-<li> <a href="https://docs.google.com/spreadsheets/d/131qeKzPSY-_W_CsDGo7_qyAE5qzfsVYMUJSinBLVolA/edit?usp=drive_link">Запросы в MongoDB</a> </li>
-</div>
+- [MongoDB-запросы для проверки коллекций с платёжными картами](https://docs.google.com/spreadsheets/d/131qeKzPSY-_W_CsDGo7_qyAE5qzfsVYMUJSinBLVolA/edit?gid=0#gid=0)  
+  _Провёл создание коллекций, массовое добавление и выборку данных для тестирования различных сценариев обработки платёжных карт_
